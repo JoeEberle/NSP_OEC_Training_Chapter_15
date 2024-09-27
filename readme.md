@@ -390,7 +390,31 @@ These steps ensure that patients are safely assisted in taking nitroglycerin or 
 
 
 
-
+## Key Terms 
+ 1. **Acute Myocardial Infarction** - Also known as a heart attack, it occurs when blood flow to part of the heart is blocked, causing heart muscle damage. 
+  2. **Angina Pectoris** - Chest pain or discomfort caused by reduced blood flow to the heart muscle, typically a symptom of coronary artery disease. 
+  3. **Aorta** - The largest artery in the body, responsible for carrying oxygen-rich blood from the heart to the rest of the body. 
+  4. **Aortic Aneurysm** - A bulge or dilation in the wall of the aorta, which can rupture and lead to life-threatening bleeding. 
+  5. **Arrhythmia** - An abnormal heart rhythm that can cause the heart to beat too fast, too slow, or irregularly. 
+  6. **Asystole** - A state of no cardiac electrical activity, also known as flatline, where the heart stops beating. 
+  7. **Atherosclerosis** - A condition where plaque builds up in the arteries, narrowing them and reducing blood flow to the heart and other organs. 
+  8. **Automated External Defibrillator** - A portable device that checks the heart's rhythm and can deliver a shock to restore a normal rhythm in cases of sudden cardiac arrest. 
+  9. **Cardiopulmonary Resuscitation (CPR)** - An emergency procedure performed to manually preserve brain function and blood circulation in a person experiencing cardiac arrest. 
+  10. **Congestive Heart Failure (CHF)** - A chronic condition where the heart cannot pump blood effectively, leading to fluid buildup in the lungs and other tissues. 
+  11. **Coronary Arteries** - The arteries that supply oxygen-rich blood to the heart muscle. 
+  12. **Coronary Artery Disease** - A disease caused by the buildup of plaque in the coronary arteries, reducing blood flow to the heart. 
+  13. **Defibrillation** - The use of a controlled electric shock to restore a normal heart rhythm in cases of life-threatening arrhythmias like ventricular fibrillation. 
+  14. **Hypertension** - High blood pressure, a condition where the force of the blood against the artery walls is too high. 
+  15. **Hypotension** - Low blood pressure, a condition where blood flow to organs is inadequate, leading to dizziness, fainting, or shock. 
+  16. **Ischemia** - A condition where there is insufficient blood flow to an organ or tissue, leading to oxygen deprivation and damage. 
+  17. **Myocardium** - The muscular tissue of the heart responsible for contracting and pumping blood. 
+  18. **Pericarditis** - Inflammation of the pericardium, the protective sac surrounding the heart, causing chest pain and other symptoms. 
+  19. **Pulmonary Edema** - A condition where excess fluid accumulates in the lungs, often as a result of congestive heart failure. 
+  20. **Sudden Cardiac Arrest (SCA)** - An abrupt loss of heart function, breathing, and consciousness, typically due to an electrical disturbance in the heart. 
+  21. **Ventricular Tachycardia** - A fast heart rate that starts in the heart's lower chambers (ventricles) and can lead to ventricular fibrillation or sudden cardiac arrest. 
+  22. **Ventricular Fibrillation** - A life-threatening arrhythmia where the ventricles quiver instead of pumping blood, leading to cardiac arrest. 
+  23. **Ventricular Assist Device** - A mechanical pump used to support heart function and blood flow in people with weakened hearts. 
+ 
 ![Image image_filename](sample.png)
 
 ## Getting Started
@@ -417,7 +441,7 @@ To get started with the **Nsp Oec Training Chapter 15** solution repository, fol
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](arteries.png)  <br>![additional_image](cardiovascular_anatomy.png)  <br>![additional_image](CVD_cardio_vascular_diseases.png)  <br>![additional_image](NSP_OEC_Training_Chapter_15.png)  <br>![additional_image](Types_of_CVD.png)  <br>![additional_image](veins.png)  <br>
+ ![additional_image](arteries.png)  <br>![additional_image](cardiovascular_anatomy.png)  <br>![additional_image](CVD_cardio_vascular_diseases.png)  <br>![additional_image](heart disease.png)  <br>![additional_image](nitroglycerin.png)  <br>![additional_image](nitroglycerin_1.png)  <br>![additional_image](NSP_OEC_Training_Chapter_15.png)  <br>![additional_image](Types_of_CVD.png)  <br>![additional_image](veins.png)  <br>
     
 
 ## Github    
