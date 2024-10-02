@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Nsp Oec Training Chapter 15 - NSP_OEC_Training_Chapter_15
-NSP_OEC_Training_Chapter_15
+# Nsp Oec Training Chapter 15 - National Ski Patrol - Outdoor Emergency Care chapter 15
+National Ski Patrol - Outdoor Emergency Care chapter 15
 
 ![Image image_filename](code.png)
 
