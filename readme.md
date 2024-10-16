@@ -444,11 +444,8 @@ To get started with the **Nsp Oec Training Chapter 15** solution repository, fol
  ![additional_image](arteries.png)  <br>![additional_image](cardiovascular_anatomy.png)  <br>![additional_image](CVD_cardio_vascular_diseases.png)  <br>![additional_image](heart disease.png)  <br>![additional_image](nitroglycerin.png)  <br>![additional_image](nitroglycerin_1.png)  <br>![additional_image](NSP_OEC_Training_Chapter_15.png)  <br>![additional_image](Types_of_CVD.png)  <br>![additional_image](veins.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
