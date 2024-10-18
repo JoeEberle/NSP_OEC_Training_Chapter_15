@@ -407,7 +407,7 @@ These steps ensure that patients are safely assisted in taking nitroglycerin or 
   21. **Ventricular Tachycardia** - A fast heart rate that starts in the heart's lower chambers (ventricles) and can lead to ventricular fibrillation or sudden cardiac arrest. 
   22. **Ventricular Fibrillation** - A life-threatening arrhythmia where the ventricles quiver instead of pumping blood, leading to cardiac arrest. 
   23. **Ventricular Assist Device** - A mechanical pump used to support heart function and blood flow in people with weakened hearts. 
- ![Image image_filename](sample.png)
+ ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
