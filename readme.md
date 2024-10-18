@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 15 - National Ski Patrol - Outdoor Emergency Care chapter 15
-National Ski Patrol - Outdoor Emergency Care chapter 15
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 15 - National Ski Patrol - Outdoor Emergency Care chapter 15![Image image_filename](code.png)
 Chapter 15: Cardiovascular Emergencies
 
 1. List the arrhythmias associated with sudden cardiac death.
@@ -414,9 +407,7 @@ These steps ensure that patients are safely assisted in taking nitroglycerin or 
   21. **Ventricular Tachycardia** - A fast heart rate that starts in the heart's lower chambers (ventricles) and can lead to ventricular fibrillation or sudden cardiac arrest. 
   22. **Ventricular Fibrillation** - A life-threatening arrhythmia where the ventricles quiver instead of pumping blood, leading to cardiac arrest. 
   23. **Ventricular Assist Device** - A mechanical pump used to support heart function and blood flow in people with weakened hearts. 
- 
-![Image image_filename](sample.png)
-
+ ![Image image_filename](sample.png)
 ## Getting Started
 To get started with the **Nsp Oec Training Chapter 15** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -431,6 +422,9 @@ To get started with the **Nsp Oec Training Chapter 15** solution repository, fol
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -440,13 +434,11 @@ To get started with the **Nsp Oec Training Chapter 15** solution repository, fol
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](arteries.png)  <br>![additional_image](cardiovascular_anatomy.png)  <br>![additional_image](CVD_cardio_vascular_diseases.png)  <br>![additional_image](heart disease.png)  <br>![additional_image](nitroglycerin.png)  <br>![additional_image](nitroglycerin_1.png)  <br>![additional_image](NSP_OEC_Training_Chapter_15.png)  <br>![additional_image](Types_of_CVD.png)  <br>![additional_image](veins.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
