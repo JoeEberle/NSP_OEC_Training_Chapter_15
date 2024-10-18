@@ -4,7 +4,25 @@
 
 ## National Ski Patrol - Outdoor Emergency Care chapter 15
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 Chapter 15: Cardiovascular Emergencies
 
 1. List the arrhythmias associated with sudden cardiac death.
@@ -413,7 +431,13 @@ These steps ensure that patients are safely assisted in taking nitroglycerin or 
   21. **Ventricular Tachycardia** - A fast heart rate that starts in the heart's lower chambers (ventricles) and can lead to ventricular fibrillation or sudden cardiac arrest. 
   22. **Ventricular Fibrillation** - A life-threatening arrhythmia where the ventricles quiver instead of pumping blood, leading to cardiac arrest. 
   23. **Ventricular Assist Device** - A mechanical pump used to support heart function and blood flow in people with weakened hearts. 
- ![Image image_filename](code.png)![Image image_filename](sample.png)
+ 
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
