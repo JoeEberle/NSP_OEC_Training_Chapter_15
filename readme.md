@@ -8,21 +8,6 @@
 ![Solution](code.png)
 
     
-## Table of Contents
-
-- [Solution Overview](#solution-overview)
-- [Who will use this ?](#who-can-use)
-- [Advantages of Using](#advantages-of-using)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Code Features](#code-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
-
 Chapter 15: Cardiovascular Emergencies
 
 1. List the arrhythmias associated with sudden cardiac death.
@@ -447,29 +432,6 @@ To get started with the **Nsp Oec Training Chapter 15** solution repository, fol
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
-## Solution Features
-
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-- Saves You Time 
-
-
-## Code Features
-
-These features are designed to provide everything you need for **Nsp Oec Training Chapter 15** 
-
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
-
     
 ## List of Figures
  ![additional_image](arteries.png)  <br>![additional_image](cardiovascular_anatomy.png)  <br>![additional_image](CVD_cardio_vascular_diseases.png)  <br>![additional_image](heart disease.png)  <br>![additional_image](nitroglycerin.png)  <br>![additional_image](nitroglycerin_1.png)  <br>![additional_image](NSP_OEC_Training_Chapter_15.png)  <br>![additional_image](Types_of_CVD.png)  <br>![additional_image](veins.png)  <br>
