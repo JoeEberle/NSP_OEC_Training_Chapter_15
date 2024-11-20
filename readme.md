@@ -22,10 +22,10 @@ Chapter 15: Cardiovascular Emergencies
 ## 15.1  List the arrhythmias associated with sudden cardiac death.
 
 
-The **arrhythmias associated with sudden cardiac death (SCD)** are typically life-threatening and involve abnormal heart rhythms that impair the heartâ€™s ability to pump blood effectively. The primary arrhythmias include:
+The **arrhythmias associated with sudden cardiac death (SCD)** are typically life-threatening and involve abnormal heart rhythms that impair the heart’s ability to pump blood effectively. The primary arrhythmias include:
 
 1. **Ventricular Fibrillation (VF)**:
-   - A chaotic, disorganized rhythm where the heartâ€™s ventricles quiver instead of pumping blood. It is the most common arrhythmia leading to sudden cardiac death.
+   - A chaotic, disorganized rhythm where the heart’s ventricles quiver instead of pumping blood. It is the most common arrhythmia leading to sudden cardiac death.
 
 2. **Ventricular Tachycardia (VT)**:
    - A fast heart rate originating from the ventricles. If sustained or untreated, it can degenerate into ventricular fibrillation and cause sudden cardiac death.
@@ -44,7 +44,7 @@ These arrhythmias require **immediate intervention**, including **CPR** and **de
 
 ## 15.2  Demonstrate how to assess and treat a patient with a cardiovascular emergency.
 
-In a **cardiovascular emergency**, such as a heart attack, cardiac arrest, or other acute cardiac events, rapid assessment and treatment are crucial. Hereâ€™s a step-by-step guide on how to **assess and treat** a patient experiencing a cardiovascular emergency:
+In a **cardiovascular emergency**, such as a heart attack, cardiac arrest, or other acute cardiac events, rapid assessment and treatment are crucial. Here’s a step-by-step guide on how to **assess and treat** a patient experiencing a cardiovascular emergency:
 
 ### **1. Scene Safety and Initial Approach**:
    - **Ensure scene safety** for yourself and the patient.
@@ -53,15 +53,15 @@ In a **cardiovascular emergency**, such as a heart attack, cardiac arrest, or ot
 
 ### **2. Initial Assessment (Primary Survey - ABCs)**:
 
-#### **A â€“ Airway**:
-   - Check if the patientâ€™s airway is **open and clear**. If they are unconscious, perform a **jaw-thrust** or **head-tilt, chin-lift** maneuver to open the airway.
+#### **A – Airway**:
+   - Check if the patient’s airway is **open and clear**. If they are unconscious, perform a **jaw-thrust** or **head-tilt, chin-lift** maneuver to open the airway.
    
-#### **B â€“ Breathing**:
+#### **B – Breathing**:
    - **Look, listen, and feel** for breathing.
    - If the patient is not breathing, **begin rescue breathing** or use a **bag-valve mask** (if trained).
    - If breathing is present but labored, administer **oxygen** via a non-rebreather mask (if available).
 
-#### **C â€“ Circulation**:
+#### **C – Circulation**:
    - Check the **pulse** at the carotid or radial artery to assess circulation.
    - If there is **no pulse**, immediately begin **CPR** (30 chest compressions, followed by 2 rescue breaths).
    - If an **Automated External Defibrillator (AED)** is available, apply it and follow the device prompts.
@@ -78,7 +78,7 @@ In a **cardiovascular emergency**, such as a heart attack, cardiac arrest, or ot
    **Treatment**:
    1. **Call 911** immediately.
    2. **Position the patient** comfortably, usually sitting upright, to ease breathing.
-   3. Administer **aspirin** (if the patient is conscious and not allergic) â€“ typically **160-325 mg** of chewable aspirin to thin the blood and improve circulation.
+   3. Administer **aspirin** (if the patient is conscious and not allergic) – typically **160-325 mg** of chewable aspirin to thin the blood and improve circulation.
    4. Administer **oxygen** if available and necessary.
    5. Reassure and keep the patient calm, monitoring vital signs while awaiting emergency responders.
    6. If the patient becomes unconscious and pulseless, begin **CPR** immediately.
@@ -107,7 +107,7 @@ In a **cardiovascular emergency**, such as a heart attack, cardiac arrest, or ot
    1. **Call 911**.
    2. Place the patient in a **sitting position**, preferably with legs dangling, to reduce the workload on the heart.
    3. Administer **oxygen** if available.
-   4. Monitor the patientâ€™s condition closely while waiting for EMS to arrive.
+   4. Monitor the patient’s condition closely while waiting for EMS to arrive.
 
 ### **4. Ongoing Monitoring**:
    - Continuously assess **airway, breathing, and circulation (ABCs)**.
@@ -116,7 +116,7 @@ In a **cardiovascular emergency**, such as a heart attack, cardiac arrest, or ot
 
 ### **5. Hand Over to EMS**:
    - Provide emergency medical responders with a brief **report** including:
-     - The patientâ€™s **symptoms and condition**.
+     - The patient’s **symptoms and condition**.
      - Time of **onset** of symptoms.
      - **Interventions** performed (CPR, AED use, aspirin administration, oxygen therapy).
 
@@ -124,15 +124,15 @@ In a **cardiovascular emergency**, such as a heart attack, cardiac arrest, or ot
 
 ### **Demonstration Example (Heart Attack)**:
 1. A patient is complaining of severe chest pain and shortness of breath.
-2. You assess the patientâ€™s **airway, breathing, and circulation** and determine they are alert but in distress.
+2. You assess the patient’s **airway, breathing, and circulation** and determine they are alert but in distress.
 3. **Call 911**.
 4. Position the patient **sitting upright** to ease breathing.
 5. Administer **160-325 mg of aspirin** (if the patient is not allergic).
-6. Provide **oxygen** if available and monitor the patientâ€™s condition while waiting for emergency help.
+6. Provide **oxygen** if available and monitor the patient’s condition while waiting for emergency help.
 7. If the patient collapses and becomes unresponsive, immediately start **CPR** and use an **AED**.
 
 ### **Key Points**:
-- **Call for help early**: Donâ€™t delay activating emergency medical services (911).
+- **Call for help early**: Don’t delay activating emergency medical services (911).
 - **Administer CPR and defibrillation**: For cardiac arrest, immediate action is critical.
 - **Monitor and comfort**: Reassure the patient and continue to assess airway, breathing, and circulation.
 - **Medications**: Administer aspirin if a heart attack is suspected and there are no contraindications.
@@ -143,7 +143,7 @@ Quick, decisive actions during a cardiovascular emergency can save lives. Proper
 ## 15.3  Describe what you should ask a patient who takes a heart medication.
 
 
-When speaking with a patient who takes heart medication, itâ€™s important to gather information that helps assess their condition and understand how their medication impacts their cardiovascular health. Here are key questions to ask:
+When speaking with a patient who takes heart medication, it’s important to gather information that helps assess their condition and understand how their medication impacts their cardiovascular health. Here are key questions to ask:
 
 ### **1. What heart condition do you take the medication for?**
    - This helps identify whether they have conditions like high blood pressure, heart failure, arrhythmias, or a history of heart attacks, guiding your assessment.
@@ -169,7 +169,7 @@ When speaking with a patient who takes heart medication, itâ€™s important to gat
 ### **8. Have you experienced any recent episodes of dizziness, fainting, or palpitations?**
    - These symptoms can indicate potential issues with their heart medication, such as low blood pressure or arrhythmias, and may require immediate attention.
 
-By asking these questions, you gain critical information about the patientâ€™s heart condition, medication regimen, and any potential complications. This helps ensure appropriate care and informs emergency responders or healthcare providers if further intervention is needed.
+By asking these questions, you gain critical information about the patient’s heart condition, medication regimen, and any potential complications. This helps ensure appropriate care and informs emergency responders or healthcare providers if further intervention is needed.
 
 
 
@@ -281,7 +281,7 @@ Aspirin should not be used in certain situations where it may cause harm or wors
 2. **Active Bleeding or Risk of Bleeding**: Aspirin inhibits clotting, so it should not be given to patients with active gastrointestinal bleeding, recent surgeries, or known bleeding disorders.
 3. **Peptic Ulcer Disease**: It may worsen stomach ulcers and lead to internal bleeding.
 4. **Asthma Sensitivity**: Some asthmatic patients may experience aspirin-induced asthma or bronchospasm.
-5. **Children with Viral Infections**: Risk of **Reyeâ€™s syndrome**, a rare but serious condition.
+5. **Children with Viral Infections**: Risk of **Reye’s syndrome**, a rare but serious condition.
 
 ---
 
@@ -309,7 +309,7 @@ Nitroglycerin should not be used in situations where it could cause a dangerous 
 
 ## 15.7  Describe and demonstrate assisting patient in taking nitroglycerin and/or aspirin.
 
-Hereâ€™s a step-by-step guide on how to **assist a patient in taking nitroglycerin or aspirin** during a cardiovascular emergency such as a suspected heart attack or angina. These steps will help ensure the patient receives appropriate treatment while awaiting emergency medical assistance.
+Here’s a step-by-step guide on how to **assist a patient in taking nitroglycerin or aspirin** during a cardiovascular emergency such as a suspected heart attack or angina. These steps will help ensure the patient receives appropriate treatment while awaiting emergency medical assistance.
 
 ---
 
@@ -335,10 +335,10 @@ Hereâ€™s a step-by-step guide on how to **assist a patient in taking nitroglycer
 
 4. **Monitor for Response**:
    - Wait **5 minutes** after the first dose. If the pain persists and there are no contraindications (e.g., very low BP), administer another dose (up to a maximum of **3 doses** within 15 minutes).
-   - **Call 911** or ensure emergency services are en route if you havenâ€™t already done so.
+   - **Call 911** or ensure emergency services are en route if you haven’t already done so.
 
 5. **Monitor Blood Pressure and Symptoms**:
-   - Keep an eye on the patientâ€™s **blood pressure**. Nitroglycerin can cause hypotension, so be cautious.
+   - Keep an eye on the patient’s **blood pressure**. Nitroglycerin can cause hypotension, so be cautious.
    - Continue monitoring the patient for side effects, such as **headache, dizziness**, or worsening symptoms.
 
 ---
@@ -359,7 +359,7 @@ Hereâ€™s a step-by-step guide on how to **assist a patient in taking nitroglycer
 3. **Administer Aspirin**:
    - If indicated, assist the patient in taking **160-325 mg of aspirin** (usually 1 regular-strength or 4 baby aspirin tablets).
    - **Instruct the patient**:
-     - **Chew** the aspirin thoroughly before swallowing it (even if itâ€™s not a chewable tablet). This ensures rapid absorption.
+     - **Chew** the aspirin thoroughly before swallowing it (even if it’s not a chewable tablet). This ensures rapid absorption.
    - Provide the patient with a small amount of **water** to help swallow the aspirin, if needed.
 
 4. **Monitor for Response**:
@@ -422,24 +422,4 @@ These steps ensure that patients are safely assisted in taking nitroglycerin or 
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 15** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](arteries.png)  <br>![additional_image](cardiovascular_anatomy.png)  <br>![additional_image](CVD_cardio_vascular_diseases.png)  <br>![additional_image](heart disease.png)  <br>![additional_image](nitroglycerin.png)  <br>![additional_image](nitroglycerin_1.png)  <br>![additional_image](NSP_OEC_Training_Chapter_15.png)  <br>![additional_image](Types_of_CVD.png)  <br>![additional_image](veins.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
